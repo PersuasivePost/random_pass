@@ -4,6 +4,8 @@ This project is a Random Password Generator built using HTML, CSS, and basic Jav
 The generator creates a secure, random 12-character password containing a mix of lowercase and uppercase alphabets, numbers, and special characters. 
 This tool helps users generate strong passwords that can enhance their online security.
 
+Every time you click on "Generate Password," a random 12-digit password will be generated, which can be copied to your clipboard by clicking on the copy icon on the side.
+
 Features:
 1. Random Password Generation: Generates a random 12-character password with each click.
 2. Character Variety: Includes lowercase and uppercase letters, numbers, and special characters to ensure password strength.
