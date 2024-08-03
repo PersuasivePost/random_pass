@@ -1,3 +1,5 @@
+<a href="https://persuasivepost.github.io/random_pass/">Click here </a>
+
 This project is a Random Password Generator built using HTML, CSS, and basic JavaScript. 
 The generator creates a secure, random 12-character password containing a mix of lowercase and uppercase alphabets, numbers, and special characters. 
 This tool helps users generate strong passwords that can enhance their online security.
